@@ -5,6 +5,7 @@ The code implements and evaluates three hyperparameter optimization strategiesâ€
 - Spaghetti Code (SC)
 - Functional Decomposition (FD)
 - Swiss Army Knife (SAK)
+
 The empirical evaluation is conducted on three representative open-source Java systems:
 - ArgoUML v0.19.8
 - Azureus v2.3.0.6
