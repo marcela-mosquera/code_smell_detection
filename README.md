@@ -1,6 +1,6 @@
 # Understanding Code Smell Detection Through Hyperparameter Optimization and Metric Correlation Analysis
 
-The code implements and evaluates three hyperparameter optimization strategies—Grid Search, Random Search, and a two-stage Hybrid (Random → Grid) Search for Support Vector Machine (SVM)–based detection of four object-oriented code smells:
+The code implements and evaluates three hyperparameter optimization strategies: Grid Search, Random Search, and a two-stage Hybrid (Random → Grid) Search for Support Vector Machine (SVM)–based detection of four object-oriented code smells:
 - God Class (BLOB)
 - Spaghetti Code (SC)
 - Functional Decomposition (FD)
